@@ -1,4 +1,8 @@
-// public class C;
+git status
+git add .
+git commit -m "anymsg"
+git push
+    // public class C;
 
 // public class demo {
     
